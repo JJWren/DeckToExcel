@@ -1,0 +1,96 @@
+1x Academy Rector (UDS)
+1x Adarkar Wastes (7ED)
+1x Ajani Steadfast (M15) *F*
+1x Ajani Unyielding (AER) *F*
+1x Ancient Tomb (V12) *F*
+1x Atraxa, Praetors' Voice (C16) *F* *CMDR*
+1x Basalt Monolith (C15)
+1x Bloodstained Mire (KTK)
+1x Breeding Pool (GTC)
+1x Canopy Vista (BFZ) *F*
+1x Catastrophe (USG)
+1x Chromatic Lantern (MPS) *F*
+1x City of Brass (MMA)
+1x Command Tower (C15)
+1x Constant Mists (STH)
+1x Cyclonic Rift (RTR)
+1x Deepglow Skate (C16)
+1x Demonic Tutor (3ED)
+1x Doubling Season (000) *F*
+1x Dovin Baan (KLD)
+1x Elspeth, Knight-Errant (DDF) *F*
+1x Elspeth, Sun's Champion (DDO) *F*
+1x Enlightened Tutor
+1x Exotic Orchard (CN2)
+1x Farseek (000) *F*
+1x Fetid Heath (EVE)
+1x Flooded Grove (EXP) *F*
+1x Flooded Strand (KTK)
+2x Forest (UNH)
+1x Garruk, Apex Predator (M15) *F*
+1x Gilded Lotus (V13) *F*
+1x Godless Shrine (GTC)
+1x Hallowed Fountain (RTR)
+1x Humility (TMP)
+2x Island (UNH)
+1x Jace, Architect of Thought (DDM) *F*
+1x Jace, the Mind Sculptor (V13) *F*
+1x Karmic Justice (C15)
+1x Karn Liberated (NPH)
+1x Lethal Vapors (SCG) *F*
+1x Liliana Vess (M11)
+1x Mana Confluence (EXP) *F*
+1x Mana Crypt (EMA)
+1x Mana Reflection (SHM)
+1x Mana Vault (3ED)
+1x Merciless Eviction (GTC) *F*
+1x Mirari's Wake (CMA) *F*
+1x Mystical Tutor (V09) *F*
+1x Narset Transcendent (DTK)
+1x Nissa, Vital Force (KLD)
+1x Norn's Annex (NPH) *F*
+1x Ob Nixilis Reignited (DDR) *F*
+1x Overburden (PCY) *F*
+1x Overgrown Tomb (RTR)
+1x Paradox Engine (KLD)
+2x Plains (UNH)
+1x Polluted Delta (KTK)
+1x Prairie Stream (BFZ) *F*
+1x Prismatic Omen (SHM)
+1x Privileged Position (RAV)
+1x Reflecting Pool (CNS)
+1x Reliquary Tower (000) *F*
+1x Rhystic Study (PCY)
+1x Rings of Brighthearth (LRW)
+1x Sensei's Divining Top (V09) *F*
+1x Skyshroud Claim
+1x Sol Ring (V10) *F*
+1x Sorin Markov (ZEN)
+1x Sorin, Grim Nemesis (SOI)
+1x Sphere of Safety (RTR) *F*
+1x Spike Weaver (EXO)
+1x Sterling Grove (INV)
+1x Sunken Hollow (BFZ) *F*
+1x Sunken Ruins (SHM)
+1x Supreme Verdict (RTR) *F*
+2x Swamp (UNH)
+1x Sylvan Library (EMA)
+1x Tamiyo, Field Researcher (EMN)
+1x Tamiyo, the Moon Sage (AVR)
+1x Teferi, Temporal Archmage (C14)
+1x Temple Garden (RTR)
+1x Terminus (V14) *F*
+1x Tezzeret the Seeker (DDF) *F*
+1x Tithe (VIS)
+1x Toxic Deluge (EMA)
+1x Traverse the Ulvenwald (SOI)
+1x Twilight Mire (EVE)
+1x Ugin, the Spirit Dragon (FRF)
+1x Urborg, Tomb of Yawgmoth (V12) *F*
+1x Vampiric Tutor (VIS)
+1x Venser, the Sojourner (DDI) *F*
+1x Watery Grave (RAV)
+1x Windswept Heath (KTK)
+1x Wooded Bastion (SHM)
+1x Wooded Foothills (KTK)
+1x Yawgmoth's Will (USG)
