@@ -20,7 +20,7 @@
 1x Dovin Baan (KLD)
 1x Elspeth, Knight-Errant (DDF) *F*
 1x Elspeth, Sun's Champion (DDO) *F*
-1x Enlightened Tutor
+1x Enlightened Tutor (MIR)
 1x Exotic Orchard (CN2)
 1x Farseek (000) *F*
 1x Fetid Heath (EVE)
@@ -63,7 +63,7 @@
 1x Rhystic Study (PCY)
 1x Rings of Brighthearth (LRW)
 1x Sensei's Divining Top (V09) *F*
-1x Skyshroud Claim
+1x Skyshroud Claim (NEM)
 1x Sol Ring (V10) *F*
 1x Sorin Markov (ZEN)
 1x Sorin, Grim Nemesis (SOI)
